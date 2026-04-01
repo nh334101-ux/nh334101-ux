@@ -2,7 +2,7 @@
  <html
 <head>
    <title>Messi Ballon d'or</title>
-<!--
+ </head>
 **nh334101-ux/nh334101-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
