@@ -1,0 +1,41 @@
+    <style>
+        body {
+            background-color:lightcyan;
+            font-family: Arial, sans-serif;
+        }
+        
+        .header{
+            text-align: center;
+            font-family:Georgia, serif;
+        }
+        
+        h1{
+            font-size:50px;
+        }
+        
+        h2{
+            font-size:38px;
+        } 
+        
+        h3{
+            font-size:25px;
+        }
+        
+        p{
+            font-size:18px;
+        }
+        
+        table img {
+            width: 100%;
+        }
+        
+        .lists{
+            font-size:25px;
+        }
+        
+        .table {
+            text-align: center;
+            font-size: 18px;
+        }
+        
+        </style>
